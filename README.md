@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Project+Engineer+%40CDAC+Noida)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Software+Engineer+%40CDAC+Noida)](https://git.io/typing-svg)
